@@ -1,0 +1,2 @@
+# GC-script
+GC% berekenen
